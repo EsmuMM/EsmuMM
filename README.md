@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @EsmuMM
-- 👀 I’m interested in deep learning applications
-- 🌱 I’m currently learning Keras, Tensorflow
-- 💞️ I’m looking to collaborate on ... Maybe too soon to decide this
+
 
 
 <!---
